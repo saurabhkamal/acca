@@ -1,4 +1,4 @@
-## End-to-End Machine Learning Prototype Project On ACCA 
+## End-to-End Machine Learning Prototype Project On ACCA Students
 
 ### Creating the environment
 conda create -p venv python=3.12 -y
